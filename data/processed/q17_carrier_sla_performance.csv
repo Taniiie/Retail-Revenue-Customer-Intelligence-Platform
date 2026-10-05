@@ -1,0 +1,5 @@
+carrier,total_shipments,delivered_on_time,delivered_delayed,avg_delay_days,sla_compliance_pct
+DHL Express,1331,1003,328,1.9,75.36
+UPS Ground,1299,973,326,1.9,74.9
+USPS Priority,1315,971,344,1.9,73.84
+FedEx Express,1371,1012,359,1.9,73.81

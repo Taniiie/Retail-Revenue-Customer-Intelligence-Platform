@@ -1,0 +1,9 @@
+department,category_name,total_units_sold,gross_revenue,total_cost,gross_profit,gross_margin_pct
+Sports & Recreation,Fitness & Outdoor Gear,1902,649442.87,426480.49,222962.38,34.33
+Fashion,Footwear & Accessories,1836,650545.19,454250.21,196294.98,30.17
+Fashion,Apparel & Activewear,1794,598270.56,413180.11,185090.45,30.94
+Home & Living,Home Appliances & Decor,1827,541287.38,366412.72,174874.66,32.31
+Wellness,Beauty & Personal Care,1793,462542.55,319496.03,143046.52,30.93
+Home & Living,Kitchenware & Dining,1788,354806.19,243402.28,111403.91,31.4
+Electronics,Smartphones & Audio,1871,329713.94,223338.5,106375.44,32.26
+Electronics,Laptops & Computing,1748,354304.17,253803.86,100500.31,28.37

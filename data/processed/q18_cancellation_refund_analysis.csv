@@ -1,0 +1,6 @@
+payment_method,total_orders,completed_orders,cancelled_orders,refunded_orders,cancellation_rate_pct,refund_rate_pct
+Credit Card,2935,2405,123,68,4.19,2.32
+PayPal,1633,1358,64,33,3.92,2.02
+Debit Card,997,797,50,21,5.02,2.11
+Apple Pay,630,514,25,14,3.97,2.22
+Klarna / BNPL,299,254,13,5,4.35,1.67

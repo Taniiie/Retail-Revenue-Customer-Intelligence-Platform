@@ -1,0 +1,5 @@
+basket_size_category,total_orders,pct_of_orders,total_revenue,avg_order_value
+2-3 Items (Small Basket),2463,42.17,1624440.43,659.54
+4-6 Items (Medium Basket),1173,20.09,1478090.39,1260.09
+1 Item (Single Product Basket),2051,35.12,570463.22,278.14
+7+ Items (Large Multi-Item Basket),153,2.62,316684.48,2069.83

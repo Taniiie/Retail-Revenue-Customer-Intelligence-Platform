@@ -1,0 +1,41 @@
+product_id,product_name,category_id,category_name,department,cost_price,unit_price,stock_quantity,list_margin_pct
+101,Noise-Canceling Wireless Headphones,1,Smartphones & Audio,Electronics,136.09,235.14,131,42.12
+102,Flagship Smartphone Pro,1,Smartphones & Audio,Electronics,274.65,430.81,146,36.25
+103,Bluetooth Pocket Speaker,1,Smartphones & Audio,Electronics,61.35,81.36,112,24.59
+104,Earbuds Ultra,1,Smartphones & Audio,Electronics,122.13,166.62,155,26.7
+105,Smartwatch Series X,1,Smartphones & Audio,Electronics,15.04,26.12,438,42.42
+106,UltraSlim Laptop 15-inch,2,Laptops & Computing,Electronics,80.62,111.4,301,27.63
+107,Ergonomic Mechanical Keyboard,2,Laptops & Computing,Electronics,219.18,345.26,277,36.52
+108,4K Ultra-HD Monitor 27-inch,2,Laptops & Computing,Electronics,155.73,222.86,83,30.12
+109,USB-C Multi-Port Hub,2,Laptops & Computing,Electronics,144.75,191.21,212,24.3
+110,Wireless Precision Mouse,2,Laptops & Computing,Electronics,133.3,200.65,199,33.57
+111,Performance Running Jacket,3,Apparel & Activewear,Fashion,219.49,323.11,268,32.07
+112,Seamless Gym Leggings,3,Apparel & Activewear,Fashion,210.61,278.2,331,24.3
+113,Cotton Crewneck T-Shirt 3-Pack,3,Apparel & Activewear,Fashion,240.67,361.66,298,33.45
+114,Thermal Winter Fleece,3,Apparel & Activewear,Fashion,332.52,576.77,266,42.35
+115,Waterproof Hooded Parka,3,Apparel & Activewear,Fashion,139.81,182.76,410,23.5
+116,Leather Crossbody Bag,4,Footwear & Accessories,Fashion,242.01,362.55,479,33.25
+117,Lightweight Trail Running Shoes,4,Footwear & Accessories,Fashion,216.62,362.83,59,40.3
+118,Classic Canvas Sneakers,4,Footwear & Accessories,Fashion,318.99,451.83,384,29.4
+119,Polarized Sunglasses,4,Footwear & Accessories,Fashion,266.33,397.18,78,32.94
+120,Minimalist Leather Wallet,4,Footwear & Accessories,Fashion,194.97,269.68,215,27.7
+121,Robotic Vacuum Cleaner,5,Home Appliances & Decor,Home & Living,296.06,444.8,226,33.44
+122,HEPA Air Purifier,5,Home Appliances & Decor,Home & Living,314.03,492.73,328,36.27
+123,Smart LED Desk Lamp,5,Home Appliances & Decor,Home & Living,119.68,186.31,276,35.76
+124,Memory Foam Pillow Set,5,Home Appliances & Decor,Home & Living,23.47,33.95,232,30.87
+125,Ceramic Table Lamp,5,Home Appliances & Decor,Home & Living,263.58,406.67,304,35.19
+126,Stainless Steel Cookware Set,6,Kitchenware & Dining,Home & Living,130.01,185.45,404,29.89
+127,Programmable Espresso Machine,6,Kitchenware & Dining,Home & Living,102.39,146.76,325,30.23
+128,Chef Knife 8-inch Premium,6,Kitchenware & Dining,Home & Living,33.5,58.43,368,42.67
+129,Digital Air Fryer 5L,6,Kitchenware & Dining,Home & Living,143.05,204.86,87,30.17
+130,Insulated Water Bottle 1L,6,Kitchenware & Dining,Home & Living,286.89,464.21,187,38.2
+131,Adjustable Dumbbell Pair 24kg,7,Fitness & Outdoor Gear,Sports & Recreation,278.24,437.58,255,36.41
+132,Yoga Mat Eco-NonSlip,7,Fitness & Outdoor Gear,Sports & Recreation,230.67,394.85,225,41.58
+133,Camping Tent 4-Person,7,Fitness & Outdoor Gear,Sports & Recreation,221.17,320.45,72,30.98
+134,Hydration Backpack,7,Fitness & Outdoor Gear,Sports & Recreation,134.82,215.84,317,37.54
+135,Resistance Band Set,7,Fitness & Outdoor Gear,Sports & Recreation,257.53,408.67,499,36.98
+136,Hydrating Facial Serum 50ml,8,Beauty & Personal Care,Wellness,199.95,294.39,455,32.08
+137,Sonic Electric Toothbrush,8,Beauty & Personal Care,Wellness,251.93,413.76,242,39.11
+138,Organic Hair Oil 100ml,8,Beauty & Personal Care,Wellness,88.71,125.55,307,29.34
+139,Sunscreen Lotion SPF50,8,Beauty & Personal Care,Wellness,186.77,278.73,66,32.99
+140,Botanical Body Wash 500ml,8,Beauty & Personal Care,Wellness,158.25,220.09,376,28.1

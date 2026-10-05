@@ -1,0 +1,16 @@
+rank_group,product_rank,product_name,category_name,total_units_sold,total_revenue
+Top Performer,1,Thermal Winter Fleece,Apparel & Activewear,371,204666.73
+Top Performer,2,Adjustable Dumbbell Pair 24kg,Fitness & Outdoor Gear,390,163829.77
+Top Performer,3,Resistance Band Set,Fitness & Outdoor Gear,400,157011.05
+Top Performer,4,Classic Canvas Sneakers,Footwear & Accessories,361,156310.73
+Top Performer,5,Ceramic Table Lamp,Home Appliances & Decor,399,155856.37
+Top Performer,6,Robotic Vacuum Cleaner,Home Appliances & Decor,363,155613.28
+Top Performer,7,HEPA Air Purifier,Home Appliances & Decor,325,153460.65
+Top Performer,8,Flagship Smartphone Pro,Smartphones & Audio,362,149835.86
+Top Performer,9,Insulated Water Bottle 1L,Kitchenware & Dining,332,148083.11
+Top Performer,10,Sonic Electric Toothbrush,Beauty & Personal Care,367,145995.11
+Bottom Underperformer,1,Smartwatch Series X,Smartphones & Audio,367,9140.66
+Bottom Underperformer,2,Memory Foam Pillow Set,Home Appliances & Decor,383,12490.03
+Bottom Underperformer,3,Chef Knife 8-inch Premium,Kitchenware & Dining,352,19702.75
+Bottom Underperformer,4,Bluetooth Pocket Speaker,Smartphones & Audio,429,33422.63
+Bottom Underperformer,5,UltraSlim Laptop 15-inch,Laptops & Computing,368,38873.03

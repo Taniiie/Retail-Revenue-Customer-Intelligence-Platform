@@ -1,0 +1,41 @@
+product_id,product_name,category_name,department,cost_price,unit_price,stock_quantity,total_units_sold,gross_revenue,gross_profit,profit_margin_pct
+114,Thermal Winter Fleece,Apparel & Activewear,Fashion,332.52,576.77,266,427,235696.93999999933,93710.89999999935,39.76
+131,Adjustable Dumbbell Pair 24kg,Fitness & Outdoor Gear,Sports & Recreation,278.24,437.58,255,435,182601.92999999993,61567.52999999953,33.72
+122,HEPA Air Purifier,Home Appliances & Decor,Home & Living,314.03,492.73,328,371,175091.50000000003,58586.37000000033,33.46
+118,Classic Canvas Sneakers,Footwear & Accessories,Fashion,318.99,451.83,384,403,174361.35999999972,45808.38999999927,26.27
+135,Resistance Band Set,Fitness & Outdoor Gear,Sports & Recreation,257.53,408.67,499,442,173337.42999999988,59509.17000000026,34.33
+125,Ceramic Table Lamp,Home Appliances & Decor,Home & Living,263.58,406.67,304,436,170049.16999999998,55128.28999999947,32.42
+121,Robotic Vacuum Cleaner,Home Appliances & Decor,Home & Living,296.06,444.8,226,396,169780.15999999997,52540.40000000036,30.95
+102,Flagship Smartphone Pro,Smartphones & Audio,Electronics,274.65,430.81,146,405,167843.72999999986,56610.48000000014,33.73
+132,Yoga Mat Eco-NonSlip,Fitness & Outdoor Gear,Sports & Recreation,230.67,394.85,225,426,161572.4700000004,63307.050000000905,39.18
+130,Insulated Water Bottle 1L,Kitchenware & Dining,Home & Living,286.89,464.21,187,360,160732.84,57452.44000000018,35.74
+137,Sonic Electric Toothbrush,Beauty & Personal Care,Wellness,251.93,413.76,242,397,157932.0900000001,57915.88000000057,36.67
+119,Polarized Sunglasses,Footwear & Accessories,Fashion,266.33,397.18,78,408,156012.12999999968,47349.489999999205,30.35
+116,Leather Crossbody Bag,Footwear & Accessories,Fashion,242.01,362.55,479,412,143805.21000000005,44097.09000000029,30.66
+117,Lightweight Trail Running Shoes,Footwear & Accessories,Fashion,216.62,362.83,59,410,143608.29000000033,54794.09000000033,38.16
+113,Cotton Crewneck T-Shirt 3-Pack,Apparel & Activewear,Fashion,240.67,361.66,298,374,130884.73000000043,40874.150000000824,31.23
+111,Performance Running Jacket,Apparel & Activewear,Fashion,219.49,323.11,268,410,127014.49000000018,37023.58999999994,29.15
+107,Ergonomic Mechanical Keyboard,Laptops & Computing,Electronics,219.18,345.26,277,371,122515.42999999986,41199.65000000008,33.63
+133,Camping Tent 4-Person,Fitness & Outdoor Gear,Sports & Recreation,221.17,320.45,72,398,122507.89999999967,34482.24000000008,28.15
+136,Hydrating Facial Serum 50ml,Beauty & Personal Care,Wellness,199.95,294.39,455,433,122333.61999999976,35755.27000000003,29.23
+112,Seamless Gym Leggings,Apparel & Activewear,Fashion,210.61,278.2,331,429,114089.81999999969,23738.12999999948,20.81
+139,Sunscreen Lotion SPF50,Beauty & Personal Care,Wellness,186.77,278.73,66,413,110809.00999999994,33673.00000000007,30.39
+120,Minimalist Leather Wallet,Footwear & Accessories,Fashion,194.97,269.68,215,418,108546.2999999997,27048.839999999444,24.92
+134,Hydration Backpack,Fitness & Outdoor Gear,Sports & Recreation,134.82,215.84,317,436,90555.8399999997,31774.31999999981,35.09
+101,Noise-Canceling Wireless Headphones,Smartphones & Audio,Electronics,136.09,235.14,131,400,90093.88999999988,35657.89000000015,39.58
+108,4K Ultra-HD Monitor 27-inch,Laptops & Computing,Electronics,155.73,222.86,83,388,82747.86000000015,22324.61999999996,26.98
+140,Botanical Body Wash 500ml,Beauty & Personal Care,Wellness,158.25,220.09,376,377,79661.65999999973,20001.409999999727,25.11
+110,Wireless Precision Mouse,Laptops & Computing,Electronics,133.3,200.65,199,397,76397.27000000014,23477.17000000005,30.73
+126,Stainless Steel Cookware Set,Kitchenware & Dining,Home & Living,130.01,185.45,404,416,73967.0299999999,19882.869999999828,26.88
+123,Smart LED Desk Lamp,Home Appliances & Decor,Home & Living,119.68,186.31,276,404,72400.03999999986,24049.319999999767,33.22
+109,USB-C Multi-Port Hub,Laptops & Computing,Electronics,144.75,191.21,212,371,68128.26999999989,14426.019999999888,21.17
+129,Digital Air Fryer 5L,Kitchenware & Dining,Home & Living,143.05,204.86,87,346,67982.75000000015,18487.450000000048,27.19
+115,Waterproof Hooded Parka,Apparel & Activewear,Fashion,139.81,182.76,410,379,66926.62000000007,13938.630000000143,20.83
+104,Earbuds Ultra,Smartphones & Audio,Electronics,122.13,166.62,155,387,61916.17000000009,14651.860000000212,23.66
+127,Programmable Espresso Machine,Kitchenware & Dining,Home & Living,102.39,146.76,325,435,61257.49,16717.840000000157,27.29
+138,Organic Hair Oil 100ml,Beauty & Personal Care,Wellness,88.71,125.55,307,403,48675.930000000044,12925.800000000236,26.55
+106,UltraSlim Laptop 15-inch,Laptops & Computing,Electronics,80.62,111.4,301,412,43657.66000000018,10442.220000000205,23.92
+103,Bluetooth Pocket Speaker,Smartphones & Audio,Electronics,61.35,81.36,112,464,36152.24000000014,7685.840000000226,21.26
+128,Chef Knife 8-inch Premium,Kitchenware & Dining,Home & Living,33.5,58.43,368,395,22159.760000000028,8927.260000000028,40.29
+124,Memory Foam Pillow Set,Home Appliances & Decor,Home & Living,23.47,33.95,232,426,13897.240000000023,3899.020000000046,28.06
+105,Smartwatch Series X,Smartphones & Audio,Electronics,15.04,26.12,438,409,10203.740000000013,4052.3800000000247,39.71
